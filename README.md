@@ -1,6 +1,6 @@
 # Unveiling-the-Stars-An-Exploratory-Study-on-NASA-Astronauts
 
-Certainly! Here's a description for your GitHub about the NASA Astronauts project:
+Certainly! Here's a description the NASA Astronauts project:
 
 ---
 
