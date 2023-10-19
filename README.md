@@ -32,4 +32,4 @@ Feel free to explore, fork, or star if you find this project interesting!
 
 ---
 
-You can add or remove sections as per your GitHub repository structure and preferences.
+
